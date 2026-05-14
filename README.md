@@ -10,6 +10,10 @@
 
 ---
 
+![TeleOp Flywheel Dashboard Demo](TeleOp-flywheel.gif)
+
+---
+
 ## The Problem
 
 Humanoid robot programs need massive volumes of high-quality teleoperation data. A single 10,000-episode dataset can cost **$200K–$500K** in operator labor.
