@@ -1,3 +1,5 @@
+> **⚠️ Archived (2026-06-28)** — Folded into [**PM**](https://github.com/vgandhi1/PM). See [ARCHIVED.md](./ARCHIVED.md).
+
 # 🤖 TeleOp Flywheel Dashboard
 
 > **Attribute exact dollar value to human-in-the-loop robotic teleoperation data — and surface operator quality at per-session granularity.**
