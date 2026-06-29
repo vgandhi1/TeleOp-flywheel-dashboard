@@ -1,3 +1,7 @@
+> ⚠️ **ARCHIVED** — now maintained as part of
+> [vgandhi1/robot-data-flywheel](https://github.com/vgandhi1/robot-data-flywheel/tree/main/TeleOp-flywheel-dashboard) (archived: 2026-06-28).
+
+
 > **⚠️ Archived (2026-06-28)** — Folded into [**PM**](https://github.com/vgandhi1/PM). See [ARCHIVED.md](./ARCHIVED.md).
 
 # 🤖 TeleOp Flywheel Dashboard
